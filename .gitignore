@@ -1,0 +1,5 @@
+informe_*.xlsx
+*.pyc
+__pycache__/
+.venv/
+reports/
